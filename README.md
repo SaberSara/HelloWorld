@@ -1,2 +1,5 @@
 # HelloWorld
- Game Programming Course - Chapter 6 - Introduction to C# - Exercise 1
+
+Forsbergs Skola
+Game Programming Course - Chapter 6 - Introduction to C# - Exercise 1
+ 
